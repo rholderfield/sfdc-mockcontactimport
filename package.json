@@ -1,0 +1,14 @@
+{
+    "name": "sfdc-mockcontactimport",
+    "version": "1.0.0",
+    "lockfileVersion": 1,
+    "requires": true,
+    "dependencies": {
+        "faker": {
+            "version": "5.1.0"
+        },
+        "jsforce": {
+            "version": "1.10.0"
+        }
+    }
+}
